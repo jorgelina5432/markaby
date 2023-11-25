@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
