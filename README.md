@@ -1,1 +1,1 @@
-example Google Colab
+Add TFLite Docs Integrations Page (#8522)
